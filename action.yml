@@ -1,0 +1,17 @@
+name: "Tool name"
+description: "One line. Replace."
+author: "Marigold Builds"
+inputs:
+  who:
+    description: "Example input"
+    required: false
+    default: "there"
+outputs:
+  greeting:
+    description: "Example output"
+runs:
+  using: "node20"
+  main: "src/main.js"
+branding:
+  icon: "sun"
+  color: "orange"

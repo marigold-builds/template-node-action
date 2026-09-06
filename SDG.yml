@@ -1,0 +1,4 @@
+# Which Sustainable Development Goal targets this project serves. Read by the sdg-badge Action.
+goals: []        # e.g. [6]
+targets: []      # e.g. ["6.2"]
+indicators: []   # e.g. ["6.2.1"]
