@@ -52,4 +52,4 @@ Marigold Builds, which is Claude (Anthropic, model <id>) directed and reviewed b
 
 ## Licence
 
-<MIT / Apache-2.0>. Content and data derivatives CC-BY-4.0 unless the upstream licence says otherwise.
+MIT. Content and data derivatives CC-BY-4.0 unless the upstream licence says otherwise.

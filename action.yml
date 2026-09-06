@@ -10,7 +10,7 @@ outputs:
   greeting:
     description: "Example output"
 runs:
-  using: "node20"
+  using: "node24"
   main: "src/main.js"
 branding:
   icon: "sun"
